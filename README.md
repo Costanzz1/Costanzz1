@@ -47,7 +47,7 @@ I build and break things in my home lab, and I run **CoTech Networks LLC**, a sm
 
 ## 📫 Connect
 
-[LinkedIn]([https://linkedin.com/in/michael-costanzo-9ab5441a0/?isSelfProfile=true]) · [Email](mailto:cmikee01@gmail.com) [Business Email](mailto:contact@cotechnetworks.com)
+[LinkedIn](https://linkedin.com/in/michael-costanzo-9ab5441a0) · [Email](mailto:cmikee01@gmail.com) [Business Email](mailto:contact@cotechnetworks.com)
 <!--
 **Costanzz1/Costanzz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
