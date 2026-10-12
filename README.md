@@ -8,10 +8,17 @@ I build and break things in my home lab, and I run **CoTech Networks LLC**, a sm
 
 ## What I Work With
 
-**Security:** Kali Linux · pfSense · Wazuh / Security Onion · Wireshark · Nmap · Metasploit
-**Networking:** Cisco IOS (VLANs, ACLs, routing) · Mesh Wi-Fi · Structured cabling
-**Infrastructure:** Proxmox VE · Windows & Linux administration
-**Scripting:** Python · PowerShell · Bash
+**Network Infrastructure:** Cisco IOS (VLANs, trunking, ACLs) · Managed & unmanaged switching · Mesh Wi-Fi design & troubleshooting · Structured cabling · ISP/bandwidth troubleshooting
+
+**Firewalls & Security:** pfSense · Network segmentation · Firewall rule design · Kali Linux · Nmap · Wireshark · Metasploit
+
+**Security Operations:** SIEM monitoring (Wazuh) · Log analysis · Vulnerability scanning · Incident triage
+
+**Virtualization & Servers:** Proxmox VE · VMware ESXi · Windows & Linux administration · Storage troubleshooting
+
+**Field & Client Work:** On-site network assessments · Residential & small-business IT support · Network buildouts for professional offices · Live event networking (Cisco Dream Team)
+
+**Scripting:** PowerShell · Bash (basic)
 
 ## Featured Projects
 
@@ -40,7 +47,7 @@ I build and break things in my home lab, and I run **CoTech Networks LLC**, a sm
 
 ## 📫 Connect
 
-[LinkedIn]([https://linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/michael-costanzo-9ab5441a0/?isSelfProfile=true)) · [Email](mailto:cmikee01@gmail.com) [Email](mailto:contact@cotechnetworks.com)
+[LinkedIn]([https://linkedin.com/in/michael-costanzo-9ab5441a0/?isSelfProfile=true]) · [Email](mailto:cmikee01@gmail.com) [Business Email](mailto:contact@cotechnetworks.com)
 <!--
 **Costanzz1/Costanzz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
