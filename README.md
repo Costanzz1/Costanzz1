@@ -1,4 +1,4 @@
-# Hi, This is my (Michael Costanzo) Work/Porjects 
+# Hi, This is my (Michael Costanzo) Work/Projects over the years
 
 **Cybersecurity and networking work** based on Long Island, NY.
 I build and break things in my home lab, and I run **CoTech Networks LLC**, a small IT, networking, and cybersecurity business serving residential and commercial clients that I built myself.
