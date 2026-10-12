@@ -24,11 +24,8 @@ I build and break things in my home lab, and I run **CoTech Networks LLC**, a sm
 
 | Project | What it shows |
 |---|---|
-| [Home Lab](./) | Segmented Proxmox lab with pfSense as the firewall boundary for vulnerable targets |
-| [Attack → Detect Write-ups](./) | Running attacks in the lab, then catching them with logs and detection rules |
-| [Cisco Lab Configs](./) | VLANs, trunking, ACLs, and switch hardening on physical Cisco gear |
-| [pfSense Hardening Baseline](./) | A documented, reusable firewall configuration standard that I also use for my clients |
-| [Field Case Studies](./) | Anonymized real-world troubleshooting from client work |
+| [Home Lab](https://github.com/Costanzz1/security-homelab) 🚧 | Segmented Proxmox lab with pfSense as the firewall boundary and Wazuh SIEM |
+
 
 ## 🎓 Education & Certifications
 
