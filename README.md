@@ -43,8 +43,7 @@ I build and break things in my home lab, and I run **CoTech Networks LLC**, a sm
 - **Cyber Security Intern**, Brookhaven National Laboratory *(Summer 2024)*
 - **Cisco Dream Team**, Cisco Networking Academy: event network operations at the FIFA Club World Cup 2025(1month), Global Citizen Festival 2025(1 Week), and US Open 2026(1 Month)
 - **CrowdStrike × National Cyber League Mentorship Program** *(2024–2025)*
-- **Owner**, CoTech Networks LLC (Established 2025)
-- - <img src="CoTech%20Networks%20Logo.png" alt="CoTech Networks" height="20"> **Owner**, CoTech Networks LLC
+- - <img src="CoTech%20Networks%20Logo.png" alt="CoTech Networks" height="20"> **Owner**, CoTech Networks LLC (Established 2025)
 
 ## 📫 Connect
 
